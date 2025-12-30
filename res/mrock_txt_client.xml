@@ -3254,11 +3254,11 @@
 </TxtConfig_Client>
 <TxtConfig_Client version="1">
     <m_uiID>1308 </m_uiID>
-    <m_szDescriptionZH>http://gamecenter.qq.com/gcjump?pf=invite&amp;appid=wx6f15c6c03a84433d&amp;plat=wx</m_szDescriptionZH>
+    <m_szDescriptionZH>http://gamecenter.qq.com/gcjump?pf=invite&amp;appid=wx&amp;plat=wx</m_szDescriptionZH>
 </TxtConfig_Client>
 <TxtConfig_Client version="1">
     <m_uiID>1309 </m_uiID>
-    <m_szDescriptionZH>http://gamecenter.qq.com/gcjump?pf=invite&amp;appid=100666228&amp;plat=qq</m_szDescriptionZH>
+    <m_szDescriptionZH>http://gamecenter.qq.com/gcjump?pf=invite&amp;appid=18&amp;plat=qq</m_szDescriptionZH>
 </TxtConfig_Client>
 <TxtConfig_Client version="1">
     <m_uiID>1332 </m_uiID>
